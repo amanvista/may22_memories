@@ -1,4 +1,3 @@
-
 import memories from './components/images/memories.png'
 import { Container, AppBar, Typography, Grow, Grid } from '@material-ui/core';
 import Posts from './components/Posts/Posts';
